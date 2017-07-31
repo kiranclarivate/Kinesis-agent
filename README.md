@@ -10,6 +10,7 @@ https://github.com/kiranclarivate/Kinesis-agent.git
 You should have full access on below directories.You can ask server root user to create these folders and give you full ownership of it.Root user can achieve this by running chown <username> <folder> command.
   1./var/log/aws-kinesis-agent
   2./etc/aws-kinesis/
+  3./var/run/aws-kinesis-agent
  Navigate to Kinesis-agent.
 Open Kinesis.sh
 Set JAVA_HOME and KINESIS_HOME as per your system .Save the file.
